@@ -22,7 +22,6 @@ To win the game collect water, wood and food.
 
 
 ## Items
-***
  ### Armors
 | Name   | Block | Price |
 |--------|-------|-------|
@@ -39,7 +38,6 @@ To win the game collect water, wood and food.
 
 
 ## Locations
-***
 ### Safe Locations
 
 | Name       | Description                             | 
